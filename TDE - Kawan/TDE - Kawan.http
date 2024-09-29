@@ -1,0 +1,6 @@
+@TDE___Kawan_HostAddress = http://localhost:5028
+
+GET {{TDE___Kawan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
